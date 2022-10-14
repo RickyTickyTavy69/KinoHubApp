@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/KinoHubApp/static/css/main.ba76100a.css",
-    "main.js": "/KinoHubApp/static/js/main.d54a93a0.js",
+    "main.js": "/KinoHubApp/static/js/main.aa1dec0b.js",
     "static/js/787.9cf49f21.chunk.js": "/KinoHubApp/static/js/787.9cf49f21.chunk.js",
     "static/media/logo2.png": "/KinoHubApp/static/media/logo2.13ae328422c93a480e26.png",
     "static/media/Hub.jpg": "/KinoHubApp/static/media/Hub.b53424618986d069b817.jpg",
     "index.html": "/KinoHubApp/index.html",
     "main.ba76100a.css.map": "/KinoHubApp/static/css/main.ba76100a.css.map",
-    "main.d54a93a0.js.map": "/KinoHubApp/static/js/main.d54a93a0.js.map",
+    "main.aa1dec0b.js.map": "/KinoHubApp/static/js/main.aa1dec0b.js.map",
     "787.9cf49f21.chunk.js.map": "/KinoHubApp/static/js/787.9cf49f21.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ba76100a.css",
-    "static/js/main.d54a93a0.js"
+    "static/js/main.aa1dec0b.js"
   ]
 }
