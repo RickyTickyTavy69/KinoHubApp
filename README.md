@@ -29,4 +29,4 @@
 
 #### on the masterBoard page the owner of this website can see all the important data. He can see, how many sits were booked, how many of them
 #### Loge and how many are Parkett sits. Also, he can see, how much is the turnover and there is a button which resets all the booked sits.
-#### (For more safety there is a modal window and you have to activate three switchers to enable clicking on the button).
+#### (For more safety there is a modal window, and you have to activate three switchers to enable clicking on the button).
